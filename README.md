@@ -1,4 +1,33 @@
-# SellerPilot AI — intelligence, in control.
+# SellerPilot AI — Concordium Trusted Agents Hackathon 2026 adaptation
+
+**Event:** Concordium Trusted Agents Hackathon 2026  
+**Status:** **Preparation only — NOT submitted; Concordium integration not yet implemented.**  
+**Deadline:** 9 December 2026, 23:59 UTC  
+**Repo:** https://github.com/tareq7/sellerpilot-concordium-trusted-agents-2026  
+**Original provenance:** https://github.com/tareq7/sellerpilot-ai (built for Meta Global AI Developer Hackathon, October 2026, and already submitted there).
+
+> Concordium explicitly invites builders to **take existing agents** and make them accountable. This repo is a full-history clone of the existing SellerPilot analytics application. Its previously recorded Meta demo is **not evidence of a working Concordium component**. The new work must be implemented, independently tested and demonstrated on Concordium testnet.
+
+## Intended hackathon extension
+
+Extend SellerPilot's read-only merchant analysis into an accountable commerce-agent proof of concept: register and verify an agent through Concordium, optionally enable testnet x402 agent-to-agent paid data access, and demonstrate auditable decisions while leaving real marketplace writes disabled. No Concordium testnet integration has yet been implemented.
+
+### Blocking submission requirements
+
+- [ ] Implement and demonstrate a functioning flow on Concordium testnet using at least one qualifying component (agent registry/identity badge, x402 payments, sponsored transactions, or registry MCP).
+- [ ] Document provenance: this application is an existing Meta-era foundation, not a new agent written entirely during the event.
+- [ ] Record a new event-specific video up to 3 minutes with a real testnet workflow.
+- [ ] Provide a CCDExplorer link to the testnet agent/contract/transactions.
+- [ ] Publish accurate source, setup instructions and a credible testnet-to-mainnet plan.
+- [ ] Verify human accountability and privacy controls without storing or exposing sensitive personal information.
+
+The inherited public site and three-minute video are a historical demonstration only. Do not assert ERC-8004 registration, a verified badge, x402 settlement or Concordium identity until proven on testnet.
+
+---
+
+## Original SellerPilot baseline (historical, retained for transparency)
+
+### SellerPilot AI — intelligence, in control.
 
 **An evidence-backed, bilingual marketplace-operations copilot for Amazon.sa and Noon.sa.**
 
@@ -40,8 +69,8 @@ A campaign showing 7× ROAS can be **bad for a business if the advertised SKU ru
 Requirements: Node.js 22+ and npm.
 
 \`\`\`bash
-git clone https://github.com/tareq7/sellerpilot-ai.git
-cd sellerpilot-ai
+git clone https://github.com/tareq7/sellerpilot-concordium-trusted-agents-2026.git
+cd sellerpilot-concordium-trusted-agents-2026
 npm ci
 npm test
 npm run build

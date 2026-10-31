@@ -1,3 +1,5 @@
+> **Concordium Trusted Agents Hackathon 2026 variant:** Inherited baseline documentation follows. It does not validate Concordium testnet features; see [current event checklist](SUBMISSION_CHECKLIST.md).
+
 # Security model and explicit spending gate
 
 The public SellerPilot demo works without paid APIs, merchant login or marketplace writes. Canonicalized Amazon/Noon CSVs are analyzed locally in the user's browser. The app is not permitted to send imported private reports to the Meta **Contributor** model, because Meta may use prompts and outputs to improve its models.

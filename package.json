@@ -1,9 +1,9 @@
 {
-  "name": "sellerpilot-ai",
+  "name": "sellerpilot-concordium-trusted-agents-2026",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Stock-aware seller-controlled Amazon/Noon operations copilot",
+  "description": "SellerPilot AI baseline for Concordium Trusted Agents Hackathon 2026; Concordium testnet integration planned, not implemented",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build && node scripts/build-api.mjs",

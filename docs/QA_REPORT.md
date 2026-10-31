@@ -1,3 +1,5 @@
+> **Concordium Trusted Agents Hackathon 2026 variant:** Inherited baseline documentation follows. It does not validate Concordium testnet features; see [current event checklist](SUBMISSION_CHECKLIST.md).
+
 # Quality report — October 27, 2026
 
 ## Verified state
