@@ -1,12 +1,16 @@
 # SellerPilot AI — Concordium Trusted Agents Hackathon 2026 adaptation
 
 **Event:** Concordium Trusted Agents Hackathon 2026  
-**Status:** **Preparation only — NOT submitted; Concordium integration not yet implemented.**  
+**Status:** **Joined Encode Club; Checkpoint 1 project created November 3, 2026. Final submission NOT submitted; Concordium integration not yet implemented.**  
 **Deadline:** 9 December 2026, 23:59 UTC  
 **Repo:** https://github.com/tareq7/sellerpilot-concordium-trusted-agents-2026  
 **Original provenance:** https://github.com/tareq7/sellerpilot-ai (built for Meta Global AI Developer Hackathon, October 2026, and already submitted there).
 
 > Concordium explicitly invites builders to **take existing agents** and make them accountable. This repo is a full-history clone of the existing SellerPilot analytics application. Its previously recorded Meta demo is **not evidence of a working Concordium component**. The new work must be implemented, independently tested and demonstrated on Concordium testnet.
+
+**Encode Club project:** `SellerPilot Trusted Agents — Concordium` (one-person team). The platform reports that Checkpoint 1 requires **no separate form** once the project has been created; the final deadline is **December 9, 2026, 23:59 UTC**. The planned testnet work begins with Concordium's November 19 build window.
+
+**Event-specific technical design and acceptance tests:** [Concordium Trusted Agent Build Plan](docs/CONCORDIUM_TRUSTED_AGENT_BUILD_PLAN.md). No badge, Concordium registry transaction, or verified-human proof is claimed at this preparatory stage.
 
 ## Intended hackathon extension
 
