@@ -1,5 +1,7 @@
 # SellerPilot AI — Concordium Trusted Agents Hackathon 2026 adaptation
 
+I want AI agents to know when another agent can be trusted. My idea is to let SellerPilot check an agent’s Concordium registration before sharing sample inventory data. I’ve joined the hackathon and created the project. I haven’t built or tested the Concordium blockchain part yet.
+
 **Event:** Concordium Trusted Agents Hackathon 2026  
 **Status:** **Joined Encode Club; Checkpoint 1 project created November 3, 2026. Final submission NOT submitted; Concordium integration not yet implemented.**  
 **Deadline:** 9 December 2026, 23:59 UTC  
